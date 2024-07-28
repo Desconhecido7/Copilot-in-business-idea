@@ -10,6 +10,6 @@ Neste projeto foi utilizado a ferramenta Copilot para o desenvolvimento de um ro
 ##  Desenvolvimento
 Todo o processo de desenvolvimento foi realizado com a utilização da Copilot seguindo as instruções do [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html) para desenvolvimento de um plano de negócio para serviços de Limpeza em corporativas
 ##  Resultado
-Conseguimos enxergar uma apresentação dos conceitos que  apresentados sobre o tema pricipal (O uso do Sensoriamento Remoto na Agricultura de Precisão).
+Conseguimos enxergar uma apresentação dos conceitos que  apresentados sobre o tema pricipal (ideia de negócios para uma empresa prestadora de serviços de limpeza).
 
 [LINK DA APRESENTAÇÃO]([https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html](https://1drv.ms/p/c/409778084e6892ff/EZdfVXASGQFLgkJITg5k1LwBoQnpzOB2p0drYT7LxP0mJA?e=YSWouf))
