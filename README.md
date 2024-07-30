@@ -1,8 +1,7 @@
-# Copilot-in-business-idea
-Desenvolvimento de um plano de negócio para financiamento de uma empresa de prestação de serviços de limpeza utilizando a interface Copilot
+# Copilot-in-map-of-irrigation
+Desenvolvimento de um plano de laboração do mapa de irrigação utilizando a interface Copilot
 ##  Descrição
-Neste projeto foi utilizado a ferramenta Copilot para o desenvolvimento de um roteiro com temas de negócios para apresentação de uma empresa de prestação de serviços de limpeza em rede corporativas
-
+Neste projeto foi utilizado o Microsoft Copilot  para o desenvolvimento de um roteiro, imagens e elaboração de apresentação com etapas para o processo do desenvolvimento do mapa de irrigação em uma área qualquer no setor de oliricultura.
 ## Plataformas utilizadas
 - Microsoft **[Copilot](https://www.microsoft.com/pt-br/microsoft-copilot)** no Microsoft Edge para roteirização e revisão;
 - **[PowerPointMicrosoft](https://www.microsoft365.com/launch/powerpoint?auth=1)** para desenvolvimento e designe;
@@ -12,4 +11,4 @@ Todo o processo de desenvolvimento foi realizado com a utilização da Copilot s
 ##  Resultado
 Conseguimos enxergar uma apresentação dos conceitos que  apresentados sobre o tema pricipal (ideia de negócios para uma empresa prestadora de serviços de limpeza).
 
-[LINK DA APRESENTAÇÃO]([https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html](https://1drv.ms/p/c/409778084e6892ff/EZdfVXASGQFLgkJITg5k1LwBoQnpzOB2p0drYT7LxP0mJA?e=YSWouf))
+[LINK DA APRESENTAÇÃO]()
