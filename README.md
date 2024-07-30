@@ -7,8 +7,24 @@ Neste projeto foi utilizado o Microsoft Copilot  para o desenvolvimento de um ro
 - **[PowerPointMicrosoft](https://www.microsoft365.com/launch/powerpoint?auth=1)** para desenvolvimento e designe;
 
 ##  Desenvolvimento
-Todo o processo de desenvolvimento foi realizado com a utilização da Copilot seguindo as instruções do [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html) para desenvolvimento de um plano de negócio para serviços de Limpeza em corporativas
+Todo o processo de desenvolvimento foi realizado com a utilização do Microsoft Copilot seguindo as instruções do [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html) para desenvolvimento do planejamento de elaboração de uma mapa de irrigação.
 ##  Resultado
-Conseguimos enxergar uma apresentação dos conceitos que  apresentados sobre o tema pricipal (ideia de negócios para uma empresa prestadora de serviços de limpeza).
+Conseguimos entender com a apresentação, os conceitos essenciais de análise da área antes da tomada de decisão na elaboração do processo de desenvovimento do mapa de irrigação em uma cultura olerícula, tais como:​
 
-[LINK DA APRESENTAÇÃO]()
+- Conheça os recursos hídricos disponíveis:​
+
+- Escolha o sistema de irrigação:​
+
+- Desenhe o mapa:​
+
+- Defina os pontos de irrigação:​
+
+- Planeje a tubulação:​
+
+- Instale os emissores e tubos:​
+
+- Teste o sistema:​
+
+- Manutenção preventiva (etapa opcional).
+
+[LINK DA APRESENTAÇÃO](https://1drv.ms/p/c/409778084e6892ff/ESbUiptf5ohKn050HWXViGkBNL4RuEYVPElPaVCSE8UfEg?e=Fyfbfn)
