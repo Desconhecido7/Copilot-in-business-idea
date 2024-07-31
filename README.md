@@ -1,7 +1,7 @@
 # Copilot-in-map-of-irrigation
 Desenvolvimento de um plano de laboração do mapa de irrigação utilizando a interface Copilot
 ##  Descrição
-Neste projeto foi utilizado o Microsoft Copilot  para o desenvolvimento de um roteiro, imagens e elaboração de apresentação com etapas para o processo de desenvolvimento do mapa de irrigação em uma área qualquer no área olerícola.
+Neste projeto foi utilizado o Microsoft Copilot  para o desenvolvimento de um roteiro, imagens e elaboração de apresentação com etapas para o processo de desenvolvimento do mapa de irrigação na área olerícola.
 ## Plataformas utilizadas
 - **[MicrosoftCopilot](https://www.microsoft.com/pt-br/microsoft-copilot)** no Microsoft Edge para roteirização, revisão e criação;
 - **[PowerPointMicrosoft](https://www.microsoft365.com/launch/powerpoint?auth=1)** para desenvolvimento e designe;
