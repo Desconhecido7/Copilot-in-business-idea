@@ -11,18 +11,18 @@ Todo o processo de desenvolvimento foi realizado com a utilização do Microsoft
 ##  Resultado
 Conseguimos entender com a apresentação dos conceitos essenciais de análise da área antes da tomada de decisão na elaboração do processo de desenvovimento do mapa de irrigação em uma cultura olerícola, tais como:​
 
-- Conheça os recursos hídricos disponíveis:​
+- Recursos hídricos disponíveis:​
 
-- Escolha o sistema de irrigação:​
+- Sistema de irrigação:​
 
-- Desenhe o mapa:​
+- Mapa:​
 
-- Defina os pontos de irrigação:​
+- Pontos de irrigação:​
 
-- Planeje a tubulação:​
+- Tubulação:​
 
-- Instale os emissores e tubos:​
+- Emissores e tubos:​
 
-- Teste o sistema:​
+- Teste do sistema:​
 
 [LINK DA APRESENTAÇÃO](https://1drv.ms/p/c/409778084e6892ff/ESbUiptf5ohKn050HWXViGkBNL4RuEYVPElPaVCSE8UfEg?e=Fyfbfn)
